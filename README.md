@@ -52,7 +52,7 @@ artigo-saude-digital-conasems/
 │   ├── mapa_calor_uf_2021.png
 │   ├── mapa_calor_uf_2022.png
 │   └── mapa_calor_uf_total.png                   # Mapa consolidado
-´´´
+```
 
 ## 🚀 Etapas do Estudo
 
